@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanzo253
+- 👋 Hi, I’m David Doan
 - 👀 I’m interested in Front End Web Development to make functional websites with good design.
 - 🌱 I’m currently learning how to improve my HTML, CSS, and JavaScript. I am also learning how to work with frameworks such as React or Vue.
 - 📫 How to reach me: My email is daviddoan45@gmail.com.
